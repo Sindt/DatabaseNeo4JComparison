@@ -1,2 +1,7 @@
-Jeg har haft MANGE problemer med Neo4J (se error screenshot), på den virtuelle maskine, både rettigheder og mangel på hukkommelse, selvom jeg har sat den til 8GB  så jeg har ikke kunne dokumentere mine response tider på de 2 databaser.
-
+                 MySQL      Neo4j        
+              average      average
+Depth one:       0.5       0.4       
+Depth two:       1.8       17.0      
+Depth three:     57.5      17.0      
+Depth four:      1716.1    517.9    
+Depth five:      204874.4  70712.5   
