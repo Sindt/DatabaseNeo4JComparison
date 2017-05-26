@@ -1,7 +1,7 @@
                  MySQL      Neo4j        
               average      average
-Depth one:       0.5       0.4       
-Depth two:       1.8       17.0      
-Depth three:     57.5      17.0      
-Depth four:      1716.1    517.9    
-Depth five:      204874.4  70712.5   
+Depth one:       0.0054       0.013       
+Depth two:       0,0062       0.029      
+Depth three:     0.752        0.125      
+Depth four:      3.866        1.9    
+Depth five:      248.113      70712.5   
